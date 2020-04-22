@@ -1,0 +1,2 @@
+# OOP
+Konsep OOP inheritance
